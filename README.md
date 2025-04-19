@@ -9,6 +9,6 @@ To enhance interactivity and data visualisation, I incorporated dynamic buttons 
 The primary objective was to explore the full potential of MATLAB App Designer, particularly its capabilities for creating interactive interfaces, rendering visual elements, and implementing basic animations with the goal of applying these skills in future software engineering projects.
 
 ## Installation, and recommended minimum requirements:
-MATLAB version R2022b, "https://uk.mathworks.com/products/matlab/app-designer.html".
-Processor Apple M1 or equivalent.
+MATLAB version R2022b, "https://uk.mathworks.com/products/matlab/app-designer.html".  
+Processor Apple M1 or equivalent.  
 Monitor pixel density 183 ppi or higher.
